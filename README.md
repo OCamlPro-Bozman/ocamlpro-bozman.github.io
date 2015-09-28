@@ -1,2 +1,2 @@
-cago.github.com
+ocamlpro-bozman.github.io
 ===============
